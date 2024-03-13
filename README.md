@@ -9,3 +9,7 @@ Predict the next hot region in the United States to help realtors, developers, o
 
 Rational 	Rationale:
 Observations show a significant migration trend towards the Southern States. There are a lot of job openings as well. Such movements are bound to influence housing demands and property values. Capturing these dynamics early could offer a competitive advantage
+
+
+For Preprocessed data, checkout explaratory.ipynb
+For Analysis, checkout Combined.ipynb
